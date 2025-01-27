@@ -2,3 +2,4 @@
 -daniel: como nos organizamos? 
 -Jhoan: sigue el hilo, ya empece con la introducción, simplemente sigamos haciendolo intercaladamente hasta terminar, es decir lo haremos por secciones.
 -Jhoan: bueno, si quieres hacer algún cambio, modifica la rama y haz push para que se guarden los cambios...
+-daniel: si es que vas como una bala y no me da tiempo a hacer casi nada jaja. vamos casi lo has hecho tu todo.
