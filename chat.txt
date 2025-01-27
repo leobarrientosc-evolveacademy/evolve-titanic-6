@@ -1,4 +1,4 @@
 -Jhoan: si quieres decirme algo, hazlo a través de este txt.
 -daniel: como nos organizamos? 
 -Jhoan: sigue el hilo, ya empece con la introducción, simplemente sigamos haciendolo intercaladamente hasta terminar, es decir lo haremos por secciones.
-
+-Jhoan: bueno, si quieres hacer algún cambio, modifica la rama y haz push para que se guarden los cambios...
